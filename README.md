@@ -17,7 +17,7 @@ Product-Price-Prediction/
 │   ├── dataset_summary.py    # Summary statistics
 │   └── visualizations.py               # Visualizations
 │
-├── baseline_model/            # V1: TF-IDF + One-Hot Encoding + Random Forest
+├── Baseline_model/            # V1: TF-IDF + One-Hot Encoding + Random Forest
 │   ├── extract_product_info.py
 |   ├── check-after-extraction.py 
 │   ├── feature_encoding.py
